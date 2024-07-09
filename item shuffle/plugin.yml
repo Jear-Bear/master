@@ -1,0 +1,7 @@
+name: itemshuffle
+version: 1.0
+main: me.joda.itemshuffle.main
+api-version: 1.13
+description: item shuffle plugin
+commands:
+    shuffle:

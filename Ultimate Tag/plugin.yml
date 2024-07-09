@@ -1,0 +1,7 @@
+name: ultimate tag
+version: 1.0
+main: me.joda.ultimate.Main
+description: mhm
+commands:
+    tag:
+    next:

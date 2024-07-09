@@ -1,0 +1,7 @@
+name: randomMinigame
+version: 1.0
+main: me.joda.randomMinigame.Main
+description: hmm
+commands:
+    random:
+    rand:

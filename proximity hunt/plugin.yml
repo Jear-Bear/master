@@ -1,0 +1,5 @@
+name: proximityhunt
+version: 1.0
+main: com.joda.proxhunt.Main
+commands:
+  prox:

@@ -1,0 +1,6 @@
+name: angry
+version: 1.0
+main: me.joda.angryPigs.Main
+description: Angry pigs
+commands:
+    pigs:

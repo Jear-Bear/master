@@ -1,0 +1,6 @@
+name: magic
+version: 1.0
+main: me.joda.wizard.Main
+description: magic
+commands:
+    magic:

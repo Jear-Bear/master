@@ -1,0 +1,7 @@
+name: adaptiveDeathSwap
+version: 1.0
+main: me.joda.adaptiveDeathSwap.Main
+api-version: 1.13
+description: adaptive death swap plugin, can be used with any # of players
+commands:
+    swap:

@@ -1,0 +1,5 @@
+name: hub
+version: 1.0
+main: me.joda.pvpHub.main
+description: plugin for beatsMC hub
+commands:

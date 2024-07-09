@@ -1,0 +1,4 @@
+name: cursed
+version: 1.0
+main: me.joda.cursed.Main
+description: cursed speedrunning plugin

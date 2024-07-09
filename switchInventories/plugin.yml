@@ -1,0 +1,7 @@
+name: swapInventories
+version: 1.0
+main: me.joda.swapInventories.Main
+api-version: 1.13
+description: a plugin that swaps everyone's inventories every 5 minutes!
+commands:
+    swap:

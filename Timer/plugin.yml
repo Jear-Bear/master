@@ -1,0 +1,7 @@
+name: timer
+version: 1.0
+main: me.joda.timer.Main
+api-version: 1.13
+description: 
+commands:
+    timer:

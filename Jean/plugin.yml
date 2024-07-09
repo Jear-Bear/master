@@ -1,0 +1,6 @@
+name: manhunt
+version: 1.0
+main: me.joda.jean.Main
+description: a Manhunt plugin
+commands:
+    jean:

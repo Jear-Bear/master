@@ -1,0 +1,7 @@
+name: RisingEnd
+version: 1.0
+main: me.joda.risingEnd.Main
+api-version: 1.13
+description: fun rising minigame
+commands:
+    rise:

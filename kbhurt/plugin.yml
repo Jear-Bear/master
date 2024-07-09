@@ -1,0 +1,7 @@
+name: knockback
+version: 1.0
+main: me.joda.kb.Main
+api-version: 1.13
+description: this is a funny Wyldn plugin
+commands:
+    kb:

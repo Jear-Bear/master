@@ -1,0 +1,7 @@
+name: clearlag
+version: 1.0
+main: me.joda.ophunt.main
+api-version: 1.13
+description: item shuffle plugin
+commands:
+    lag:

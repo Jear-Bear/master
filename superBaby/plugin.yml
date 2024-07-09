@@ -1,0 +1,7 @@
+name: look_dupe
+version: 1.0
+main: me.joda.lookDupe.Main
+api-version: 1.13
+description: cursed duping plugin
+commands:
+    look:

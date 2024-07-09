@@ -1,0 +1,6 @@
+name: atomic
+version: 1.0
+main: me.joda.atomic.Main
+description: This is terrible
+commands:
+    atomic:

@@ -1,0 +1,6 @@
+name: speed
+version: 1.0
+main: me.joda.speed.Main
+description: kill me now
+commands:
+    speed:

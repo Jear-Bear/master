@@ -1,0 +1,9 @@
+name: Assassin
+version: 1.0
+main: me.joda.UltimateAssassin.main
+description: assassin minigame
+commands:
+    start:
+    nextgame:
+    help:
+    assassin:

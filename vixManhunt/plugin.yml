@@ -1,0 +1,7 @@
+name: vixManhunt
+version: 1.0
+main: me.joda.vixManhunt.Main
+api-version: 1.13
+description: better manhunts for my guy vix
+commands:
+    vix:

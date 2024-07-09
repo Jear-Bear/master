@@ -1,0 +1,7 @@
+name: count
+version: 1.0
+main: me.joda.count.Main
+api-version: 1.13
+description: this is a cursed plugin
+commands:
+    count:

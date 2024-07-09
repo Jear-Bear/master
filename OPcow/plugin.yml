@@ -1,0 +1,6 @@
+name: cow
+version: 1.0
+main: me.joda.cow.Main
+description: huhuhuh
+commands:
+    cow:

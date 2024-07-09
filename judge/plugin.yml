@@ -1,0 +1,7 @@
+name: judgeTP
+version: 1.0
+main: me.joda.judge.Main
+api-version: 1.13
+description: talent show command
+commands:
+    judge:

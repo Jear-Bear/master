@@ -1,0 +1,6 @@
+name: Rename
+version: 1.0
+main: me.joda.rename.Main
+description: You can change your name to anything
+commands:
+    rename:

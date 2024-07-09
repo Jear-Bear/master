@@ -1,0 +1,8 @@
+name: talentShow
+version: 1.0
+main: me.joda.talentShow.Main
+api-version: 1.13
+description: talent show command
+commands:
+    perform:
+    fin:

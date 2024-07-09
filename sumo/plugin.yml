@@ -1,0 +1,6 @@
+name: sumo
+version: 1.0
+main: me.joda.sumo.Main
+description: sumo
+commands:
+    sumo:

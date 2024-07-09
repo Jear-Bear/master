@@ -1,0 +1,7 @@
+name: moneyTimer
+version: 1.0
+main: me.joda.moneyTimer.Main
+api-version: 1.13
+description: for my guy vix
+commands:
+    money:

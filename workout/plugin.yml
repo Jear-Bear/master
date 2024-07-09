@@ -1,0 +1,6 @@
+name: Workout
+version: 1.0
+main: me.joda.workout.Main
+description: You must do a painful workout set every five minutes
+commands:
+    workout:

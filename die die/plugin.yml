@@ -1,0 +1,6 @@
+name: die
+version: 1.0
+main: me.joda.die.Main
+description: die
+commands:
+    death:

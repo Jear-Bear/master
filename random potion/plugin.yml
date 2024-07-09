@@ -1,0 +1,6 @@
+name: potion
+version: 1.0
+main: me.joda.potion.Main
+description: potion
+commands:
+    random:

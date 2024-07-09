@@ -1,0 +1,9 @@
+name: hungergames
+version: 1.0
+main: me.joda.hungergames.Main
+api-version: 1.13
+description: this is a fun plugin
+commands:
+    hungergames:
+    count:
+    rollback:

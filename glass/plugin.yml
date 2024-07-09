@@ -1,0 +1,7 @@
+name: glass
+version: 1.0
+main: me.joda.glass.Main
+api-version: 1.13
+description: for my guy eggsocks
+commands:
+    glass:

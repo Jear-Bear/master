@@ -1,0 +1,7 @@
+name: dookie
+version: 1.0
+main: me.joda.poop.Main
+api-version: 1.13
+description: lol
+commands:
+    poop:

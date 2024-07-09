@@ -1,0 +1,6 @@
+name: knockback
+version: 1.0
+main: me.joda.kb.Main
+description: wow
+commands:
+    kb:

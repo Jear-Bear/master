@@ -1,0 +1,10 @@
+name: traderInvis
+author: Jodabeats
+api-version: 1.13
+description: This plugin sets the drop rate of invis pots from killing traders to 100%
+commands:
+  heart:
+    description: 100% drop rate for invis potions from killing trader
+    usage: "/trade [on/off]"
+version: 1.0
+main: me.joda.trader.Main

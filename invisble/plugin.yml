@@ -1,0 +1,7 @@
+name: Hide_And_Seek
+version: 1.0
+main: me.joda.seek.Main
+api-version: 1.13
+description: fun hide and seek plugin
+commands:
+    super:

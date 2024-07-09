@@ -1,0 +1,7 @@
+name: itemShuffle
+version: 1.0
+main: me.joda.itemShuffle.Main
+api-version: 1.13
+description: Randomly assigns an item to each player, which they must acquire before time runs out!
+commands:
+    shuffle:

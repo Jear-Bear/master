@@ -1,0 +1,7 @@
+name: spooky
+version: 1.0
+main: me.joda.spooky.Main
+api-version: 1.13
+description: spooky plugin >:)
+commands:
+    spooky:

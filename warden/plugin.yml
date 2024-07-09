@@ -1,0 +1,7 @@
+name: warden
+version: 1.0
+main: me.joda.warden.Main
+api-version: 1.13
+description: for my guy jean
+commands:
+    warden:

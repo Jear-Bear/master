@@ -1,0 +1,6 @@
+name: betterBoatClutch
+version: 1.0
+main: me.joda.boat.Main
+api-version: 1.13
+description: epic plugin for Nick!
+commands:

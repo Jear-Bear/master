@@ -1,0 +1,7 @@
+name: shrink
+version: 1.0
+main: me.joda.shrink.Main
+api-version: 1.13
+description: epic shrinking plugin
+commands:
+    shrink:

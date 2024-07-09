@@ -1,0 +1,7 @@
+name: delete
+version: 1.0
+main: me.joda.delete.Main
+api-version: 1.13
+description: when you take damage, a random item is deleted from your inventory
+commands:
+    delete:

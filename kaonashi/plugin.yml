@@ -1,0 +1,7 @@
+name: inventory
+version: 1.0
+main: me.jodabeats.kaonashi.main
+api-version: 1.13
+description: shared inventory
+commands:
+    kaonashi:

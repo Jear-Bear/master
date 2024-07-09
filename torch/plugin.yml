@@ -1,0 +1,7 @@
+name: torchy
+version: 1.0
+main: me.joda.torch.Main
+api-version: 1.13
+description: lol
+commands:
+   torch:

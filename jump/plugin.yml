@@ -1,0 +1,6 @@
+name: jump
+version: 1.0
+main: me.joda.jump.Main
+description: jump
+commands:
+    jump:

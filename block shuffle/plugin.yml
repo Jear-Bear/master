@@ -1,0 +1,10 @@
+name: BlockShufflePlugin
+author: Jodabeats
+api-version: 1.13
+description: An implementation of the BlockShuffle minigame
+commands:
+  blockshuffle:
+    description: BlockShuffle Main Command
+    usage: "Usage : /blockshuffle [start][stop][add][remove][list][skip][pause]"
+version: 2.1
+main: me.joda.shuffle.Main

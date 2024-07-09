@@ -1,0 +1,7 @@
+name: heart
+version: 1.0
+main: me.joda.heart.Main
+api-version: 1.13
+description: for my guy 360
+commands:
+    heart:

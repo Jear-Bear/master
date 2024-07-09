@@ -1,0 +1,6 @@
+name: invOpen
+version: 1.0
+main: me.joda.jumpInventory.Main
+description: a silly plugin
+commands:
+    inv:

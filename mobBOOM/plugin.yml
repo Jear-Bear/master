@@ -1,0 +1,7 @@
+name: mobBoom
+version: 1.0
+main: me.joda.mobBoom.Main
+api-version: 1.13
+description: lol
+commands:
+   boom:

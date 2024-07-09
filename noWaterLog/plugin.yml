@@ -1,0 +1,6 @@
+name: noWaterLog
+version: 1.0
+main: me.joda.noWaterLog.Main
+api-version: 1.13
+description: Just drop this plugin in your plugins folder and let it work it's magic! This plugin removes any existing waterlogged leaves, and will let you place water on leaves!
+commands:

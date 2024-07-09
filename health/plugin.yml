@@ -1,0 +1,18 @@
+name: basics
+version: 1.0
+main: com.joda.health.Main
+commands:
+  health:
+    description: sets the player's health
+  hunger:
+    description: sets the player's hunger
+  day:
+    description: sets the time to day 
+  night:
+    description: sets the time to night
+  rain:
+    description: sets the weather to raining
+  sunny:
+    description: sets the weather to sunny
+  thunder:
+    description: sets the waether to thundering

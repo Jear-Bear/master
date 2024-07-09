@@ -1,0 +1,7 @@
+name: tableClutch
+version: 1.0
+main: me.joda.tableClutch.Main
+api-version: 1.13
+description: for my guy vix
+commands:
+    table:

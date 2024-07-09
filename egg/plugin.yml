@@ -1,0 +1,7 @@
+name: eggsocks
+version: 1.0
+main: me.joda.egg.Main
+api-version: 1.13
+description: egg socks in Minecraft
+commands:
+    egg:

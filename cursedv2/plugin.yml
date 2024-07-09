@@ -1,0 +1,7 @@
+name: Cursed
+version: 2.0
+main: me.joda.cursed.Main
+api-version: 1.13
+description: fun hide and seek plugin
+commands:
+    cursed:

@@ -1,0 +1,6 @@
+name: 400
+version: 1.0
+main: me.joda.enchant.Main
+description: Thank you for 400 subscribers
+commands:
+    thanks:

@@ -1,0 +1,6 @@
+name: sheep
+version: 1.0
+main: me.joda.sheep.Main
+description: mhm
+commands:
+    sheep:

@@ -1,0 +1,6 @@
+name: swim
+version: 1.0
+main: me.joda.swim.Main
+description: always swimming
+commands:
+    swim:
